@@ -1,37 +1,28 @@
-# ICML Papers
+# ICML 2026 Papers
 
-Curated summaries of ICML papers by topic.
+Curated topic summaries for ICML 2026 papers.
 
-## Current Topics
+## Topic Areas
 
-- ICML 2026 / Deep Learning / Generative Models and Autoencoders
-  - [Summary](topics/icml-2026/deep-learning/generative-models-autoencoders/summary.md)
-  - [Paper table](topics/icml-2026/deep-learning/generative-models-autoencoders/papers.csv)
+- [Deep Learning](topics/deep-learning/README.md): 12 topics, 1082 papers
+- [Applications](topics/applications/README.md): 10 topics, 755 papers
 
-## Structure
+## Layout
 
 ```text
 topics/
-  icml-2026/
-    deep-learning/
-      generative-models-autoencoders/
-        summary.md
-        papers.csv
+  deep-learning/
+    generative-models-autoencoders/
+      summary.md
+      papers.csv
+  applications/
+    computer-vision/
+      summary.md
+      papers.csv
 ```
 
-Future topics can follow the same pattern:
-
-```text
-topics/<conference-year>/<area>/<topic-slug>/
-  summary.md
-  papers.csv
-```
+Each topic folder contains a Markdown summary and a CSV table of paper links and paraphrased abstract takeaways.
 
 ## Source
 
-The first topic was built from the official ICML 2026 virtual paper metadata for:
-
-Deep Learning -> Generative Models and Autoencoders
-
-Official page:
-https://icml.cc/virtual/2026/papers.html?filter=topic&search=Deep+Learning-%3EGenerative+Models+and+Autoencoders
+Built from the official ICML 2026 virtual paper metadata and abstract metadata.

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-repo_name="${1:-icml-papers}"
+repo_name="${1:-icml2026-papers}"
 visibility="${2:-public}"
 
 if ! command -v gh >/dev/null 2>&1; then

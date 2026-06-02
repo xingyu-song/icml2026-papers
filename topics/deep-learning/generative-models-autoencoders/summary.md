@@ -1,8 +1,8 @@
-# ICML 2026 Topic Summary: Deep Learning -> Generative Models and Autoencoders
+# ICML 2026: Deep Learning -> Generative Models and Autoencoders
 
 Source: https://icml.cc/virtual/2026/papers.html?filter=topic&search=Deep+Learning-%3EGenerative+Models+and+Autoencoders
 
-Filtered poster papers: 164
+Poster papers: 164
 
 Note: The “abstract takeaway” entries are paraphrased keyword-level summaries generated from ICML abstract metadata, not verbatim abstract copies. Open each ICML link for the official full abstract.
 
